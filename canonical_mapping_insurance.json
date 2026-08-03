@@ -1,0 +1,87 @@
+{
+  "canonical_mapping": [
+    {
+      "canonical_column": "claim_id",
+      "source_system": "axa",
+      "source_column": "ID"
+    },
+    {
+      "canonical_column": "claim_id",
+      "source_system": "covea",
+      "source_column": "Sinistre"
+    },
+    {
+      "canonical_column": "claim_id",
+      "source_system": "generali",
+      "source_column": "ID Sinistre"
+    },
+    {
+      "canonical_column": "claim_id",
+      "source_system": "pacifica",
+      "source_column": "Sinistre_ID"
+    },
+
+    {
+      "canonical_column": "insured_person_id",
+      "source_system": "axa",
+      "source_column": "id_assure"
+    },
+    {
+      "canonical_column": "insured_person_id",
+      "source_system": "covea",
+      "source_column": "id_assure"
+    },
+    {
+      "canonical_column": "insured_person_id",
+      "source_system": "generali",
+      "source_column": "id_assure"
+    },
+    {
+      "canonical_column": "insured_person_id",
+      "source_system": "pacifica",
+      "source_column": "id_assure"
+    },
+
+    {
+      "canonical_column": "insured_date_of_birth",
+      "source_system": "axa",
+      "source_column": "DOB"
+    },
+    {
+      "canonical_column": "insured_date_of_birth",
+      "source_system": "covea",
+      "source_column": "Date de naissance"
+    },
+    {
+      "canonical_column": "insured_date_of_birth",
+      "source_system": "generali",
+      "source_column": "Date_naissance_assure"
+    },
+    {
+      "canonical_column": "insured_date_of_birth",
+      "source_system": "pacifica",
+      "source_column": "DN_assure"
+    },
+
+    {
+      "canonical_column": "insured_phone_number",
+      "source_system": "axa",
+      "source_column": "Telephone"
+    },
+    {
+      "canonical_column": "insured_phone_number",
+      "source_system": "covea",
+      "source_column": "Phone"
+    },
+    {
+      "canonical_column": "insured_phone_number",
+      "source_system": "generali",
+      "source_column": "Phone_number"
+    },
+    {
+      "canonical_column": "insured_phone_number",
+      "source_system": "pacifica",
+      "source_column": "Telephone Assure"
+    }
+  ]
+}
