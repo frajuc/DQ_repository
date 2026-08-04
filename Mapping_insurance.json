@@ -1,6 +1,6 @@
 {
   "canonical_mapping": [
-    {"canonical_column":"claim_id","axa":"ID","covea":"Sinistre","generali":"ID Sinistre","pacifica":"Sinistre_ID"},
+    {"canonical_column":"claim_id","axa":"ID","covea":"Sinistre","generali":"id_sinistre","pacifica":"Sinistre_ID"},
     {"canonical_column":"accident_event_id","axa":"id_evenement_accident","covea":"id_evenement_accident","generali":"id_evenement_accident","pacifica":"id_evenement_accident"},
     {"canonical_column":"insurer_name","axa":"Nom_assureur","covea":"Assureur","generali":"Nom Assureur","pacifica":"Nom_assureur"},
     {"canonical_column":"insurer_market_segment","axa":"segment_marche_assureur","covea":"segment_marche_assureur","generali":"segment_marche_assureur","pacifica":"segment_marche_assureur"},
